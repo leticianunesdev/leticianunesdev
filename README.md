@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou a Letícia Nunes! 👩‍💻
 
-<!--
-**leticianunesdev/leticianunesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Futura tecnóloga em Análise e Desenvolvimento de Sistemas pela FACENS em Sorocaba. Recentemente, finalizei o técnico de Análise e Desenvolvimento de Sistemas pelo SENAI e estou em busca do meu primeiro emprego! 👀
 
-Here are some ideas to get you started:
+### 💼 Estou em busca da minha primeira oportunidade no mercado de trabalho!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Hard Skills
+- Desenvolvimento Android (Java e Kotlin)
+- Desenvolvimento BackEnd em Java
+- Desenvolvimento FrontEnd em HTML, CSS e JavaScript
+- Arquiteturas MVC, MVP, MVVM
+- APIs com Retrofit, Coroutines
+- Git e GitHub
+- Metodologia Scrum
+
+### 📫 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-nunes-a714621a1/)
