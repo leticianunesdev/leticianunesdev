@@ -1,8 +1,6 @@
 ## Olá, eu sou a Letícia Nunes! 👩‍💻
 
-Futura tecnóloga em Análise e Desenvolvimento de Sistemas pela FACENS em Sorocaba. Recentemente, finalizei o técnico de Análise e Desenvolvimento de Sistemas pelo SENAI e estou em busca do meu primeiro emprego! 👀
-
-### 💼 Estou em busca da minha primeira oportunidade no mercado de trabalho!
+Agora sou estagiária na Cadmus e estou super empolgada com essa nova jornada! Como futura tecnóloga em Análise e Desenvolvimento de Sistemas pela FACENS em Sorocaba e recém-formada no técnico de Análise e Desenvolvimento de Sistemas pelo SENAI, estou animada para aprender e crescer ainda mais nessa área.
 
 ## ⚡ Hard Skills
 - Desenvolvimento Android (Java e Kotlin)
