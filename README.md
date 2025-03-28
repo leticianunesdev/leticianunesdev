@@ -25,6 +25,9 @@ Futura tecnóloga em Análise e Desenvolvimento de Sistemas pela FACENS em Soroc
   </a>
 </div>
 
-![Snake animation](https://github.com/leticianunesdev/leticianunesdev/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img src="https://github.com/leticianunesdev/leticianunesdev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
 
