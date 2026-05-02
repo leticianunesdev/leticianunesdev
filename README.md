@@ -1,21 +1,22 @@
 ## Olá, eu sou a Letícia Nunes! 👩‍💻
 
-Agora sou estagiária na Cadmus e estou super empolgada com essa nova jornada! Como tecnóloga em Análise e Desenvolvimento de Sistemas pela FACENS em Sorocaba e recém-formada no técnico de Análise e Desenvolvimento de Sistemas pelo SENAI, estou animada para aprender e crescer ainda mais na área, com o objetivo de me tornar uma profissional de excelência.
+Sou Analista Desenvolvedora na Cadmus Soluções em TI, com foco em desenvolvimento backend utilizando .NET e C#. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela FACENS (Sorocaba) e sou formada no curso técnico pelo SENAI.
+
+Atuo no desenvolvimento de soluções backend e também contribuo com atividades de governança e documentação, garantindo organização, padronização e qualidade nos processos.
+
+Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e expandir meus conhecimentos para me tornar uma profissional cada vez mais completa.
+
+---
+
 ## ⚡ Hard Skills
-- Desenvolvimento Android (Java e Kotlin)
-- Desenvolvimento BackEnd em Java
-- Desenvolvimento FrontEnd em HTML, CSS e JavaScript
-- Arquiteturas MVC, MVP, MVVM
-- APIs com Retrofit, Coroutines
+- Desenvolvimento Backend com .NET (C#)
+- Desenvolvimento de APIs REST
+- Boas práticas de arquitetura e organização de código
+- Governança de TI e documentação técnica
 - Git e GitHub
-- Metodologia Scrum
+- Metodologias ágeis (Scrum)
 
-
-
-### 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-nunes-a714621a1/)
-
-
+---
 
 <div>
   <a href="https://github.com/leticianunesdev">
@@ -23,5 +24,3 @@ Agora sou estagiária na Cadmus e estou super empolgada com essa nova jornada! C
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leticianunesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
-
